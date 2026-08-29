@@ -1,0 +1,37 @@
+{
+  "last_updated": "2026-08-29T01:04:05Z",
+  "schema_version": "1.0",
+  "CircuitManager_updates": [
+    {
+      "version": "0.7.11",
+      "release_date": "2026-08-29T01:04:05Z",
+      "installer_url": "https://raw.githubusercontent.com/CircuitOne/updates/refs/heads/master/CircuitManager/CircuitManagerInstaller_v0.7.11.exe",
+      "installer_size": 15990019,
+      "installer_checksum": "ae5af83185101cbb70b0bce18bb76f3dcb9226980432f23dd3f284ba7fb595e8",
+      "checksum_type": "sha256",
+      "release_notes_url": "https://raw.githubusercontent.com/CircuitOne/updates/refs/heads/master/CircuitManager/release_notes.md"
+    }
+  ],
+  "CircuitDF1_updates": [
+    {
+      "version": "0.7.4",
+      "release_date": "2026-08-29T01:04:05Z",
+      "firmware_url": "https://raw.githubusercontent.com/CircuitOne/updates/refs/heads/master/CircuitDF1/CircuitOneDF1_v0.7.4.fw",
+      "file_size": 43228,
+      "checksum": "f6a0e5c3a718f2aa140f5ec60bc55b8e60902b743461473a3c0ddd48f69c8262",
+      "checksum_type": "sha256",
+      "release_notes_url": "https://raw.githubusercontent.com/CircuitOne/updates/refs/heads/master/CircuitDF1/release_notes.md"
+    }
+  ],
+  "CircuitLink_updates": [
+    {
+      "version": "0.7.18",
+      "release_date": "2026-08-29T01:04:05Z",
+      "firmware_url": "https://raw.githubusercontent.com/CircuitOne/updates/refs/heads/master/CircuitLink/CircuitOneLink_v0.7.18.fw",
+      "file_size": 305820,
+      "checksum": "154a94879ec44bcff81890591c0946098c7deb3e0444232fbde02e3b82fa1415",
+      "checksum_type": "sha256",
+      "release_notes_url": "https://raw.githubusercontent.com/CircuitOne/updates/refs/heads/master/CircuitLink/release_notes.md"
+    }
+  ]
+}

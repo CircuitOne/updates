@@ -1,0 +1,13 @@
+{
+  "last_updated": "2026-08-29T01:04:05Z",
+  "schema_version": "1.0",
+  "CircuitManager": {
+    "latest_version": "0.7.11"
+  },
+  "CircuitLink": {
+    "latest_version": "0.7.18"
+  },
+  "CircuitDF1": {
+    "latest_version": "0.7.4"
+  }
+}
